@@ -120,7 +120,7 @@ const technologies = [
 const experiences = [
   {
     title: "Solidity Development",
-    company_name: "Starbucks",
+    company_name: "*****",
     icon: solidity,
     iconBg: "#383E56",
     date: "",
@@ -134,7 +134,7 @@ const experiences = [
   },
   {
     title: "React Development",
-    company_name: "Tesla",
+    company_name: "*****",
     icon: reactjs,
     iconBg: "#E6DEDD",
     date: "",
@@ -147,7 +147,7 @@ const experiences = [
   },
   {
     title: "Ethers.js",
-    company_name: "Shopify",
+    company_name: "*****",
     icon: ethersjs,
     iconBg: "#383E56",
     date: "",
@@ -163,7 +163,7 @@ const experiences = [
   },
   {
     title: "javaScript",
-    company_name: "Meta",
+    company_name: "*****",
     icon: javascript,
     iconBg: "#E6DEDD",
     date: "",
@@ -177,7 +177,7 @@ const experiences = [
   },
   {
     title: "Three.js",
-    company_name: "Shopify",
+    company_name: "*****",
     icon: threejs,
     iconBg: "#383E56",
     date: "",
@@ -189,7 +189,7 @@ const experiences = [
   },
   {
     title: "Hardhat",
-    company_name: "Shopify",
+    company_name: "*****",
     icon: hardhat,
     iconBg: "#383E56",
     date: "",
